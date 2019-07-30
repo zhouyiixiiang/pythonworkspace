@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<Managers address="Chengdu Branch, Chinise academy of sciences" company="CASIT">
+		<Manager>
+			<name>a</name>
+			<age>27</age>
+			<sex>女</sex>
+		</Manager>
+		<Manager>
+			<name>b</name>
+			<age>22</age>
+			<sex>女</sex>
+		</Manager>
+		<Manager>
+			<name>c</name>
+			<age>21</age>
+			<sex>男</sex>
+		</Manager>
+		<Manager>
+			<name>d</name>
+			<age>23</age>
+			<sex>女</sex>
+		</Manager>
+		<Manager>
+			<name>e</name>
+			<age>24</age>
+			<sex>女</sex>
+		</Manager>
+		<Manager>
+			<name>f</name>
+			<age>25</age>
+			<sex>男</sex>
+		</Manager>
+	</Managers>
